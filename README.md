@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AystorFullQuard
 - 👀 I’m interested in Programming Languages
 - 🌱 I’m currently learning Java, Programming Patterns
-- 💞️ I’m looking to collaborate on good team
+- 💞️ I’m looking to collaborate on a good team
 - 📫 How to reach me https://www.instagram.com/godunovm/
 
 <!---
